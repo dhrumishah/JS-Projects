@@ -19,6 +19,8 @@ h3 {
   text-align: center;
   text-transform: none;
   letter-spacing: 0.01em;
+  font-weight: bold;
+  font-size: 1.8em;
 }
 /* Random background generating button*/
 .random-button {
