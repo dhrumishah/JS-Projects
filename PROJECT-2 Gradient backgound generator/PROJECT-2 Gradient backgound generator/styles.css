@@ -1,0 +1,43 @@
+body {
+  text-align: center;
+  font: italic 1.2em "Fira Sans", serif;
+  color: rgba(0, 0, 0, 0.75);
+  text-transform: none;
+  top: 15%;
+  background: linear-gradient(to right, #cdb4db, #a2d2ff);
+  padding-top: 10%;
+  padding-left: 6%;
+}
+h1 {
+  font-size: 2.5em;
+  letter-spacing: 0.1em;
+}
+
+h3 {
+  font: italic "Fira Sans", serif;
+  color: rgba(0, 0, 0, 0.75);
+  text-align: center;
+  text-transform: none;
+  letter-spacing: 0.01em;
+  font-weight: bold;
+  font-size: 1.8em;
+}
+.random-button {
+  background-color: #b7e4c7;
+  border: white;
+  border-radius: 5px;
+  color: rgba(0, 0, 0, 0.75);
+  padding: 15px 12px;
+  font-size: 15px;
+  font-family: italic "Fira Sans", serif;
+}
+
+.random-button:hover {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-size: 18px;
+}
+
+.random {
+  margin-top: 10px;
+}
