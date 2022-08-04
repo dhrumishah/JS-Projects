@@ -1,15 +1,4 @@
-/* @media only screen and (max-width: 768px) {
-  .calculator-App {
-    min-height: 70vh;
-    grid-template-columns: repeat(4, 70px);
-    grid-template-rows: minmax(50px, auto) repeat(5, 70px);
-    padding-top: 90px;
-  }
-  .container {
-    padding: 3px;
-  }
-} */
-*/ * {
+* {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -109,9 +98,11 @@ button {
   color: white;
 }
 
-@media only screen and (max-width: 600px) {
-  body {
-    background-color: #131313;
-    align-items: flex-start;
+@media only screen and (max-width: 740px) {
+  .container {
+    min-height: 70vh;
+    grid-template-columns: repeat(4, 70px);
+    grid-template-rows: minmax(50px, auto) repeat(5, 70px);
+    padding-top: 90px;
   }
 }
