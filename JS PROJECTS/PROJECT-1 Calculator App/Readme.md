@@ -8,4 +8,4 @@
 
 ![image](https://user-images.githubusercontent.com/84569241/182672511-29d547dd-b315-44c7-ae40-df703fde69f8.png)
 
-##👀 [Deployed project](https://js-projects-teal.vercel.app/)
+## 👀 [Deployed project](https://js-projects-teal.vercel.app/)
