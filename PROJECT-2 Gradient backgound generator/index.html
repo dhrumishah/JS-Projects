@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gradient Background Generator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bangers&family=Lato:wght@300&family=Montserrat:ital,wght@1,200&family=Mouse+Memoirs&family=Plus+Jakarta+Sans:wght@200&family=Poppins:wght@200;300;600;700&family=Satisfy&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body id="gradient">
+    <h1>BACKGROUND GENERATOR</h1>
+
+    <input class="color1" type="color" name="color1" value="#cdb4db" />
+    <input class="color2" type="color" name="color2" value="#a2d2ff" />
+    <h2>Current CSS Background</h2>
+    <h3 class="text" id="copyText"></h3>
+    <div class="random">
+      <button class="random-button">Generate Random Color</button>
+      <button class="copy-button" id="copyButton" onclick="copyToClipboard()">
+        Copy the code
+      </button>
+    </div>
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>
