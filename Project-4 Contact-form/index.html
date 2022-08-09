@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bangers&family=Chakra+Petch:wght@600&family=Lato:wght@300&family=Montserrat:ital,wght@1,200&family=Mouse+Memoirs&family=Plus+Jakarta+Sans:wght@200&family=Poppins:wght@200;300;600;700&family=Quicksand:wght@300&family=Satisfy&display=swap"
+      rel="stylesheet"
+    />
+    <title>Contact form</title>
+  </head>
+  <body>
+    <div id="overlay">
+      <form id="form" action="mailto:dhrumishah951@gmail.com" method="post">
+        <h1>Contact Us</h1>
+        <div>
+          <label for="name">Your name:</label>
+          <input
+            type="text"
+            id="name"
+            name="yourName"
+            placeholder="Enter your name:"
+          />
+        </div>
+        <div>
+          <label for="email">Enter your email:</label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Enter your email:"
+          />
+        </div>
+        <div>
+          <label for="message">Message:</label>
+          <textarea
+            rows="4"
+            cols="50"
+            id="message"
+            name="message"
+            placeholder="Enter your message:"
+          ></textarea>
+        </div>
+        <div id="buttons-row">
+          <div class="buttons">
+            <button type="submit" id="send">
+              Send Message <object data="paper-plane-solid.svg" width="20" height="20"> </object></i>
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
