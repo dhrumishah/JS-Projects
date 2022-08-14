@@ -1,0 +1,66 @@
+* {
+  font-family: "poppins", sans-serif;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+html {
+  height: 100%;
+  background-color: #f3f3f3;
+  background: linear-gradient(135deg, #6f6df4, #a8d5e2) fixed;
+}
+
+#container {
+  height: 325px;
+  width: 450px;
+  background-color: #f3f3f3;
+  display: grid;
+  grid-template-columns: 100px 1fr;
+  grid-template-rows: 75px 75px 75px 75px;
+  grid-template-areas:
+    ". bill-amount"
+    ". tip-percentage"
+    ". tip-amount"
+    ". total-bill"
+    "btn btn";
+  margin: 0 auto;
+  border-radius: 10px;
+  padding: 25px;
+}
+
+#bill-amount {
+  grid-area: bill-amount;
+  height: 25px;
+  width: 350px;
+}
+
+#tip-percentage {
+  grid-area: tip-percentage;
+  height: 25px;
+  width: 350px;
+}
+
+#tip-amount {
+  grid-area: tip-amount;
+  height: 25px;
+  width: 350px;
+}
+
+#total-bill {
+  grid-area: total-bill;
+  height: 25px;
+  width: 350px;
+}
+
+#btn {
+  grid-area: btn;
+  height: 35px;
+  width: auto;
+  background: #a8d5e2;
+  border: none;
+  border-radius: 10px;
+}
+#btn:hover {
+  background: #888888;
+}
