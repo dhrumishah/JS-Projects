@@ -7,3 +7,4 @@
 3. [Digital Clock](https://github.com/dhrumishah/JS-Projects/tree/main/Project-3%20Digital%20Clock)
 4. [Contact-form](https://github.com/dhrumishah/JS-Projects/tree/main/Project-4%20Contact-form)
 5. [Tip-Calculator](https://github.com/dhrumishah/JS-Projects/tree/main/project-5%20Tip-Calculator)
+6. [StopWatch](https://github.com/dhrumishah/JS-Projects/tree/main/Project-6%20Stopwatch)
