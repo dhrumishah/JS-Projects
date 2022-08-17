@@ -8,3 +8,4 @@
 4. [Contact-form](https://github.com/dhrumishah/JS-Projects/tree/main/Project-4%20Contact-form)
 5. [Tip-Calculator](https://github.com/dhrumishah/JS-Projects/tree/main/project-5%20Tip-Calculator)
 6. [StopWatch](https://github.com/dhrumishah/JS-Projects/tree/main/Project-6%20Stopwatch)
+7. [Palindrome Checker](https://github.com/dhrumishah/JS-Projects/tree/main/Project-7%20Palindrome%20Checker)
