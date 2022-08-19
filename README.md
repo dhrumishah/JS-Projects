@@ -9,3 +9,4 @@
 5. [Tip-Calculator](https://github.com/dhrumishah/JS-Projects/tree/main/project-5%20Tip-Calculator)
 6. [StopWatch](https://github.com/dhrumishah/JS-Projects/tree/main/Project-6%20Stopwatch)
 7. [Palindrome Checker](https://github.com/dhrumishah/JS-Projects/tree/main/Project-7%20Palindrome%20Checker)
+8. [Typing Speed Tester](https://github.com/dhrumishah/JS-Projects/tree/main/Project-8%20Typing%20Speed%20Tester)
