@@ -1,5 +1,7 @@
 # Typing Speed Tester
 
+## Deployed project link : https://clinquant-beignet-10ea73.netlify.app/
+
 
 ## Reference Image
 
