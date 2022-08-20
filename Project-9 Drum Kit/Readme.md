@@ -1,6 +1,6 @@
 # Drum Kit
 
-## Deployed project link : https://incomparable-froyo-e1a88a.netlify.app/
+## Deployed project link : https://drum-kit-dhrumishah.netlify.app/
 
 ## Project screenshot:
 
