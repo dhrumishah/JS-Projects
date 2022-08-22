@@ -2,8 +2,11 @@ body {
   background-color: #212b31;
 }
 .container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   padding-top: 8em;
-  padding-left: 38em;
 }
 .circle {
   height: 300px;

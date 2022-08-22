@@ -12,7 +12,7 @@ body {
 .clock,
 .date {
   height: 300px;
-  width: 1000px;
+  width: 1150px;
   background: linear-gradient(
     135deg,
     #f1c0e8,
@@ -31,7 +31,7 @@ body {
 .layout {
   padding: 20px;
   border-radius: 15px;
-  width: 800px;
+  width: 950px;
 }
 .clock .display,
 .date .layout {
