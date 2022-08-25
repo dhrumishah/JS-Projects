@@ -11,3 +11,4 @@
 7. [Palindrome Checker](https://github.com/dhrumishah/JS-Projects/tree/main/Project-7%20Palindrome%20Checker)
 8. [Typing Speed Tester](https://github.com/dhrumishah/JS-Projects/tree/main/Project-8%20Typing%20Speed%20Tester)
 9. [Drum Kit](https://github.com/dhrumishah/JS-Projects/tree/main/Project-9%20Drum%20Kit)
+10. [Quiz App](https://github.com/dhrumishah/JS-Projects/tree/main/Project-10%20Quizz%20App)
