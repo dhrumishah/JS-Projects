@@ -1,5 +1,6 @@
 # Quiz App
 
+## Deployed Project Link: https://quizmasters-dhrumishah.netlify.app/
 
 ## Screenshot: 
 
